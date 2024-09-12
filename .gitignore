@@ -1,3 +1,9 @@
+MonteCarlo/MonteCarlo
+MonteCarlo/x64
+MonteCarlo/.vs
+MonteCarlo/MonteCarlo.vcxproj.user
+
+
 # Prerequisites
 *.d
 
