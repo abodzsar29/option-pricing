@@ -3,6 +3,10 @@ MonteCarlo/x64
 MonteCarlo/.vs
 MonteCarlo/MonteCarlo.vcxproj.user
 
+BlackScholesMerton/.vs
+BlackScholesMerton/x64
+BlackScholesMerton/BlackSch.eb5fe63b
+BlackScholesMerton/BlackScholesMerton.vcxproj.user
 
 # Prerequisites
 *.d
