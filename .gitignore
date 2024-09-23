@@ -8,6 +8,11 @@ BlackScholesMerton/x64
 BlackScholesMerton/BlackSch.eb5fe63b
 BlackScholesMerton/BlackScholesMerton.vcxproj.user
 
+Binomial/.vs
+Binomial/x64
+Binomial/Binomial.vcxproj.user
+Binomial/Binomial
+
 # Prerequisites
 *.d
 
